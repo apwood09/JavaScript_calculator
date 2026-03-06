@@ -35,5 +35,5 @@ JavaScript programming a calculator simulator to perform basic operations and ke
 3. You can edit example usage numerical values or leave the values the same. 
 
 4. Run Code To Test Results:
-   * In terminal run command:  node test "files_name.js"
+   * In terminal run command:  node "files_name.js"
    * Output from the code will display in the terminal 
