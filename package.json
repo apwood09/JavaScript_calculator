@@ -4,7 +4,7 @@
   "description": "JavaScript programming a calculator simulator to perform basic operations and keep track of all calculations",
   "main": "index.js",
   "scripts": {
-    "test": "Jest"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
