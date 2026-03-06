@@ -1,4 +1,4 @@
-# summative_lab-JavaScript_calculator
+# JavaScript calculator
 
 JavaScript programming a calculator simulator to perform basic operations and keep track of all calculations
 
