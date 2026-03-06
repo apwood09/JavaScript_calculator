@@ -20,5 +20,8 @@
   "homepage": "https://github.com/apwood09/JavaScript_calculator#readme",
   "devDependencies": {
     "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
