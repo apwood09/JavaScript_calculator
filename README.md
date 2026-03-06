@@ -32,8 +32,8 @@ JavaScript programming a calculator simulator to perform basic operations and ke
    * Navigate to directory of project in the terminal.
    * Copy command: code "file_name.js"
 
-3. You can edit example usage numerical values or leave the values the same. 
-
-4. Run Code To Test Results:
+2.  Run Code To Test Results:
    * In terminal run command:  node "files_name.js"
    * Output from the code will display in the terminal 
+
+3. Terminal will ask for user input, follow the steps in the terminal to use the calculator
