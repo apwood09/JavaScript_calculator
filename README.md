@@ -22,7 +22,7 @@ JavaScript programming a calculator simulator to perform basic operations and ke
 3. Insatall Dependicies:
    * Go to directory of project
    * type command: npm install
-   * Check for installation type command: node -v and seperately run command: npm -v. If installed for both, should display versiok of depedicies. 
+   * Check for installation type command: node -v and seperately run command: npm -v. If installed for both, should display version of depencies. 
    
 
 ## How To View/Test 
